@@ -10,7 +10,7 @@ Process
 4. Looked into how the brands are mentioned together on each of these attributes and identified aspirational brand
 5. Used insights from this analysis to make recommendations to different stakeholders on areas of improvement and provided awareness about competitors
 
-## Building a Crowdsourced Recommendation System
+## Building a Crowdsourced Recommendation System:
 The objective of this project was to create the building blocks of a crowdsourced recommendation system. The recommendation system accepts user inputs about desired attributes of a product and come up with 3 recommendations.
 
 Process
